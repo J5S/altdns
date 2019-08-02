@@ -21,6 +21,8 @@
 2016
 2017
 2018
+2019
+2020
 3
 4
 5
@@ -48,6 +50,7 @@ apollo
 april
 auth
 aws
+azure
 b
 backend
 bb
@@ -68,6 +71,7 @@ cf
 chef
 ci
 client
+cloud
 cloudfront
 cms
 cms1
@@ -92,6 +96,7 @@ dfw1
 dfw2
 dfw3
 dl
+dns
 docker
 docs
 drop
@@ -157,6 +162,8 @@ jj
 july
 june
 k
+k8
+k8s
 kk
 kor
 korea
